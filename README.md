@@ -17,6 +17,17 @@ Due to time constraints, the limited features added are:
 - The command bar should allow users to search and directly navigate to any page in the app.
 - Users should be able to search prospects and companies and see a detailed view of the selected item.
 
+### 3. Companies page
+
+- The main table with information about the companies and customers
+- Ability to select and filter data
+- Option to search for specific companies
+- Selecting which columns should be visible
+
+### 3. Notifications button
+
+- Dropdown lists to display the notifications received
+
 ### Tech stack
 
 - Next JS
